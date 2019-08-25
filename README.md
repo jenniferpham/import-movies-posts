@@ -3,6 +3,8 @@ Convert .csv file of movies to .xml file to import into Wordpress
 See example of what XML file of movies to import looks like:
 WORDPRESS WP-ADMIN > Tools > Export > Movies (custom post type) -> xml file format
 
+add categories in Wordpress that match genre
+
 Get movies.csv file
 Download Google sheet and save as csv file and clean up data (split Production info to DIrector, Country Runtime minutes)
 
